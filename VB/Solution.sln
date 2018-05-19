@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\...\PivotGridFiltering\", "PivotGridFiltering\", "{03CBC2F2-FC31-4683-8039-922EB5220FF5}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/PivotGridFiltering"
+		Debug.AspNetCompiler.PhysicalPath = "PivotGridFiltering\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PivotGridFiltering\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PivotGridFiltering"
+		Release.AspNetCompiler.PhysicalPath = "PivotGridFiltering\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PivotGridFiltering\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59108"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CBC2F2-FC31-4683-8039-922EB5220FF5}.Debug|.NET.ActiveCfg = Debug|.NET
+		{03CBC2F2-FC31-4683-8039-922EB5220FF5}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
