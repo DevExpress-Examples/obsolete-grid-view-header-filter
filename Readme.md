@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/PivotGridFiltering/Default.aspx)
+* [Default.aspx.cs](./CS/PivotGridFiltering/Default.aspx.cs)
+* [MasterPage.master](./CS/PivotGridFiltering/MasterPage.master)
+* [MasterPage.master.cs](./CS/PivotGridFiltering/MasterPage.master.cs)
+<!-- default file list end -->
 # OBSOLETE - Implementing Pivot Grid like filtration style
 
 
