@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/PivotGridFiltering/Default.aspx) (VB: [Default.aspx](./VB/PivotGridFiltering/Default.aspx))
-* [Default.aspx.cs](./CS/PivotGridFiltering/Default.aspx.cs) (VB: [Default.aspx](./VB/PivotGridFiltering/Default.aspx))
+* [Default.aspx.cs](./CS/PivotGridFiltering/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/PivotGridFiltering/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE - Implementing Pivot Grid like filtration style
 
