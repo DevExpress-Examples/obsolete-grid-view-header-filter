@@ -1,7 +1,3 @@
-<!-- default badges list -->
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E214)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -11,9 +7,6 @@
 * [MasterPage.master.cs](./CS/PivotGridFiltering/MasterPage.master.cs)
 <!-- default file list end -->
 # OBSOLETE - Implementing Pivot Grid like filtration style
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e214)**
-<!-- run online end -->
 
 
 <p>This example illustrates how to implement a custom popup filter with muti-select capabilities (like the ASPxPivotGrid provides).</p><p><strong>N</strong><strong>ote:</strong> Starting with version v12.1, this feature is available out-of-the-box:<br />
